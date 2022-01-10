@@ -35070,7 +35070,7 @@ for (var i=0; i<photos.length; i++){
     //inserting media to container
     container.appendChild(media);
 
-
+    alert('test');
 
 
 }
