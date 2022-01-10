@@ -35071,6 +35071,7 @@ for (var i=0; i<photos.length; i++){
     container.appendChild(media);
 
     alert('test');
+    alert('git lens');
 
 
 }
